@@ -28,6 +28,7 @@ int main()
     im.convertToGrayscale();
 
     im.drawCircle(90, 300, 250, {100, 200, 100});
+    im.drawCircle(70, 100, 100, {100, 100, 200});
 
     im.savePpm("result.ppm");
 }
