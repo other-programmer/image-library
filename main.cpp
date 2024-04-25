@@ -27,6 +27,7 @@ int main()
 
     im.convertToGrayscale();
 
+    // Some comment
     im.drawCircle(90, 300, 250, {100, 200, 100});
     im.drawCircle(70, 100, 100, {100, 100, 200});
 
