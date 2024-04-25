@@ -5,3 +5,6 @@ project(ImageProject)
 add_executable(img image.cpp image.h main.cpp)
 
 message("Hello")
+
+
+message("Cat")
