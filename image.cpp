@@ -6,6 +6,8 @@
 #include <cassert>
 #include "image.h"
 
+// Changes in new branch
+// Hello
 
 Image::Color& Image::Color::operator+=(Color c) 
 {
